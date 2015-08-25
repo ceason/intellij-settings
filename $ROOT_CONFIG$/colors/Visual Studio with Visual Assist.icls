@@ -4,7 +4,7 @@
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="eeeeee" />
+    <option name="CARET_ROW_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="add6ff" />
     <option name="LINE_NUMBERS_COLOR" value="0" />
