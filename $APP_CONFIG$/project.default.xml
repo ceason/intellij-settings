@@ -148,6 +148,20 @@
           <Port>5050</Port>
         </configuration>
       </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/repos/data-broker-scala" value="1440599543394" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="C:\Program Files\Java\jdk1.7.0_79\jre" />
+      </component>
       <component name="masterDetails">
         <states>
           <state key="GlobalLibrariesConfigurable.UI">
@@ -174,7 +188,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.8</last-edited>
+              <last-edited>Go 1.5</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
