@@ -1,5 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift F9" />
+    <keyboard-shortcut first-keystroke="F5" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift F6" />
     <keyboard-shortcut first-keystroke="control R" />
@@ -7,6 +12,7 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="control H" />
   </action>
+  <action id="Resume" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt ENTER" />
   </action>
@@ -22,5 +28,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="control F8" />
+    <keyboard-shortcut first-keystroke="F9" />
+  </action>
   <action id="TypeHierarchy" />
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
