@@ -152,7 +152,7 @@
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/repos/data-broker-scala" value="1440599543394" />
-            <entry key="$USER_HOME$/repos/databroker" value="1441731697138" />
+            <entry key="$USER_HOME$/repos/databroker" value="1442247271994" />
             <entry key="$USER_HOME$/repos/databroker_asdf" value="1441729523660" />
           </map>
         </option>
@@ -192,7 +192,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>Go 1.5</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
