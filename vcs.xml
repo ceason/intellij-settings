@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/ceason/data-broker-scala.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.redventures.net/dsc/databroker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\ceason.REDVENTURES\repos" />
