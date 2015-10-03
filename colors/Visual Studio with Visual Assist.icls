@@ -1,4 +1,4 @@
-<scheme name="Visual Studio with Visual Assist" version="141" parent_scheme="Default">
+<scheme name="Visual Studio with Visual Assist" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -64,17 +64,32 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
+    <option name="CONSOLE_BLUE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
+    <option name="CONSOLE_CYAN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a31515" />
       </value>
     </option>
+    <option name="CONSOLE_GRAY_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
+    <option name="CONSOLE_GREEN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
+    <option name="CONSOLE_RED_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -86,6 +101,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
+    <option name="CONSOLE_YELLOW_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2c91af" />
@@ -233,6 +251,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -357,6 +376,9 @@
         <option name="BACKGROUND" value="add6ff" />
       </value>
     </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="2c91af" />
@@ -364,6 +386,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
@@ -395,6 +418,17 @@
         <option name="FOREGROUND" value="2c91af" />
       </value>
     </option>
+    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Implicit conversion first part" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Implicit conversion second part" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
+    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="80" />
@@ -417,6 +451,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="METHOD_CALL_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="880000" />
@@ -443,12 +478,17 @@
         <option name="FOREGROUND" value="2c91af" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="880000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Standart Java Collection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -471,6 +511,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
@@ -483,5 +524,6 @@
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>
